@@ -1,0 +1,28 @@
+# Python / Virtual Environments
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node / Frontend (if applicable)
+node_modules/
+.next/
+dist/
+
+# Environment & Secrets
+.env
+.env.local
+
+# Heavy Datasets, Media & Model Weights
+*.mp4
+*.avi
+*.pt
+*.pth
+*.onnx
+datasets/
+data/raw/
+
+# IDE & OS
+.vscode/
+.DS_Store
+Thumbs.db

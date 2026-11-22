@@ -1,0 +1,6 @@
+alert_id,timestamp,camera_id,video_source,track_id,reliability_score,evidence_path
+ALT_20261121_221612_257907,0.17s,CAM-01,Normal-Test017.avi,4,0.613,alerts/evidence\ALT_20261121_221612_257907_ID4.jpg
+ALT_20261121_221612_410376,0.23s,CAM-01,Normal-Test017.avi,6,0.638,alerts/evidence\ALT_20261121_221612_410376_ID6.jpg
+ALT_20261121_221613_496176,0.87s,CAM-01,Normal-Test017.avi,2,0.587,alerts/evidence\ALT_20261121_221613_496176_ID2.jpg
+ALT_20261121_221623_081601,0.17s,CAM-01,Weaponized-Test186.avi,1,0.664,alerts/evidence\ALT_20261121_221623_081601_ID1.jpg
+ALT_20261121_221623_194586,0.23s,CAM-01,Weaponized-Test186.avi,4,0.561,alerts/evidence\ALT_20261121_221623_194586_ID4.jpg
